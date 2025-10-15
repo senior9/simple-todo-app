@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="http://localhost:5173/">
-    <img src="./assets/simple-todo-app.png" alt="MyProject demo" width="800" />
+    <img src="./src/assets/simple-todo-app.png" alt="MyProject demo" width="800" />
   </a>
 </p>
 
